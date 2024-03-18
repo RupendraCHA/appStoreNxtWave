@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.app-item-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 18px;
+  max-width: 200px;
+  width: 100%;
+  padding: 18px;
+  margin: 12px;
+}
+.app-image {
+  height: 80px;
+}
+.app-name {
+  color: #1e293b;
+  font-family: 'Bree Serif';
+  font-size: 18px;
+  font-weight: 700;
+}
